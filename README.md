@@ -37,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Tan-02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tan-02/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tan-02/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Tan-02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
