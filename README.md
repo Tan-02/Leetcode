@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Tan-02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tan-02/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
