@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tan-02/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tan-02/Leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tan-02/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tan-02/Leetcode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Tan-02/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tan-02/Leetcode/tree/master/0101-symmetric-tree) |
 ## Array
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Tan-02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
