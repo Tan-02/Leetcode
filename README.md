@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Tan-02/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tan-02/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/Tan-02/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tan-02/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tan-02/Leetcode/tree/master/0101-symmetric-tree) |
+| [3310-remove-methods-from-project](https://github.com/Tan-02/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Tan-02/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Tan-02/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
