@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Tan-02/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Tan-02/Leetcode/tree/master/0137-single-number-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tan-02/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Tan-02/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
