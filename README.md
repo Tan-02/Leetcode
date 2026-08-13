@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Tan-02/Leetcode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Tan-02/Leetcode/tree/master/0137-single-number-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tan-02/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tan-02/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
