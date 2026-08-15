@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tan-02/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tan-02/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tan-02/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tan-02/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tan-02/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Tan-02/Leetcode/tree/master/0137-single-number-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tan-02/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tan-02/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
