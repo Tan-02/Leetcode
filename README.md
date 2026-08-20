@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Tan-02/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Tan-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Tan-02/Leetcode/tree/master/0118-pascals-triangle) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Tan-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tan-02/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Tan-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Sliding Window
 |  |
 | ------- |
