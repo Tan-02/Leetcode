@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Tan-02/Leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Tan-02/Leetcode/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
 | [1406-stone-game-iii](https://github.com/Tan-02/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Tan-02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tan-02/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tan-02/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Tan-02/Leetcode/tree/master/0383-ransom-note) |
+| [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tan-02/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tan-02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
 ## Number Theory
 |  |
 | ------- |
