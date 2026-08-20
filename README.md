@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tan-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tan-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/Tan-02/Leetcode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tan-02/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3945-digit-frequency-score](https://github.com/Tan-02/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Tan-02/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tan-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Tan-02/Leetcode/tree/master/0204-count-primes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Tan-02/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Tan-02/Leetcode/tree/master/2574-left-and-right-sum-differences) |
