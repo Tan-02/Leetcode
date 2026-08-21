@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Tan-02/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Tan-02/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tan-02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Tan-02/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tan-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/Tan-02/Leetcode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/Tan-02/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Tan-02/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tan-02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1406-stone-game-iii](https://github.com/Tan-02/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
