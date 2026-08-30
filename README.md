@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tan-02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Tan-02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Tan-02/Leetcode/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tan-02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Tan-02/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tan-02/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tan-02/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tan-02/Leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Tan-02/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tan-02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Tan-02/Leetcode/tree/master/0733-flood-fill) |
 | [1406-stone-game-iii](https://github.com/Tan-02/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Tan-02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Tan-02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tan-02/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tan-02/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
