@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tan-02/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tan-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 | [0561-array-partition](https://github.com/Tan-02/Leetcode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tan-02/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Tan-02/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Tan-02/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tan-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tan-02/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/Tan-02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tan-02/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Tan-02/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tan-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Tan-02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tan-02/Leetcode/tree/master/0204-count-primes) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
