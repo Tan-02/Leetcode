@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tan-02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tan-02/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0071-simplify-path](https://github.com/Tan-02/Leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/Tan-02/Leetcode/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/Tan-02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/Tan-02/Leetcode/tree/master/0383-ransom-note) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Tan-02/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tan-02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
