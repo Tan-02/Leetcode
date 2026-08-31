@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Tan-02/Leetcode/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/Tan-02/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Tan-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tan-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tan-02/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/Tan-02/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Tan-02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tan-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
