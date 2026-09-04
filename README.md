@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tan-02/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Tan-02/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Tan-02/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Tan-02/Leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Tan-02/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tan-02/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Tan-02/Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Tan-02/Leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Tan-02/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tan-02/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tan-02/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Tan-02/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Tan-02/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Tan-02/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tan-02/Leetcode/tree/master/0078-subsets) |
 ## Simulation
